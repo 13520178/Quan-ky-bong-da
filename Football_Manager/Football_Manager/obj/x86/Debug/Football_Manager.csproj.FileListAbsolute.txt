@@ -1,0 +1,77 @@
+D:\Users\DuongNguyen\Desktop\Football_Manager\Football_Manager\bin\Debug\Football_Manager.exe
+D:\Users\DuongNguyen\Desktop\Football_Manager\Football_Manager\bin\Debug\Football_Manager.pdb
+D:\Users\DuongNguyen\Desktop\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.Properties.Resources.resources
+D:\Users\DuongNguyen\Desktop\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.csproj.GenerateResource.Cache
+D:\Users\DuongNguyen\Desktop\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.exe
+D:\Users\DuongNguyen\Desktop\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.pdb
+D:\Users\DuongNguyen\Desktop\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.frmcauthu.resources
+D:\Users\DuongNguyen\Desktop\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.frmcauthu_hlv.resources
+D:\Users\DuongNguyen\Desktop\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.frmHLV.resources
+D:\Users\DuongNguyen\Desktop\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.Properties.frmlichthidau.resources
+D:\Users\DuongNguyen\Desktop\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.frmTiepnhanHSdoibong.resources
+E:\NM_CNPM\Do_An\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.exe
+E:\NM_CNPM\Do_An\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.pdb
+E:\NM_CNPM\Do_An\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.csprojResolveAssemblyReference.cache
+E:\NM_CNPM\Do_An\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.frmcauthu.resources
+E:\NM_CNPM\Do_An\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.frmcauthu_hlv.resources
+E:\NM_CNPM\Do_An\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.frmdangnhap.resources
+E:\NM_CNPM\Do_An\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.frmHLV.resources
+E:\NM_CNPM\Do_An\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.Properties.Resources.resources
+E:\NM_CNPM\Do_An\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.csproj.GenerateResource.Cache
+E:\NM_CNPM\Do_An\Football_Manager\Football_Manager\bin\Debug\Football_Manager.exe
+E:\NM_CNPM\Do_An\Football_Manager\Football_Manager\bin\Debug\Football_Manager.pdb
+E:\NM_CNPM\Do_An\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.frmketquathidau.resources
+E:\NM_CNPM\Do_An\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.frmtiepnhanhosodoibong.resources
+E:\NM_CNPM\Do_An\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.frmlapichthidau.resources
+C:\Users\ASUS K55V\Documents\Visual Studio 2013\Projects\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.exe
+C:\Users\ASUS K55V\Documents\Visual Studio 2013\Projects\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.pdb
+C:\Users\ASUS K55V\Documents\Visual Studio 2013\Projects\Football_Manager\Football_Manager\bin\Debug\Football_Manager.exe
+C:\Users\ASUS K55V\Documents\Visual Studio 2013\Projects\Football_Manager\Football_Manager\bin\Debug\Football_Manager.pdb
+C:\Users\ASUS K55V\Documents\Visual Studio 2013\Projects\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.csprojResolveAssemblyReference.cache
+C:\Users\ASUS K55V\Documents\Visual Studio 2013\Projects\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.frmketquathidau.resources
+C:\Users\ASUS K55V\Documents\Visual Studio 2013\Projects\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.frmcauthu.resources
+C:\Users\ASUS K55V\Documents\Visual Studio 2013\Projects\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.frmHLV.resources
+C:\Users\ASUS K55V\Documents\Visual Studio 2013\Projects\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.frmlapichthidau.resources
+C:\Users\ASUS K55V\Documents\Visual Studio 2013\Projects\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.Properties.Resources.resources
+C:\Users\ASUS K55V\Documents\Visual Studio 2013\Projects\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.frmtiepnhanhosodoibong.resources
+C:\Users\ASUS K55V\Documents\Visual Studio 2013\Projects\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.csproj.GenerateResource.Cache
+C:\Users\ASUS K55V\Documents\Visual Studio 2013\Projects\Football_Manager\Football_Manager\bin\Debug\Football_Manager.exe.config
+C:\Users\ASUS K55V\Documents\Visual Studio 2013\Projects\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.FormMAIN.resources
+C:\Users\ASUS K55V\Documents\Visual Studio 2013\Projects\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.Dangky.resources
+C:\Users\ASUS K55V\Documents\Visual Studio 2013\Projects\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.FrmCT_Ketquatrandau.resources
+C:\Users\ASUS K55V\Documents\Visual Studio 2013\Projects\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.FrmXepHang.resources
+C:\Users\ASUS K55V\Documents\Visual Studio 2013\Projects\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.exe.licenses
+C:\Users\ASUS K55V\Documents\Visual Studio 2013\Projects\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.frmThemMuaGiai.resources
+C:\Users\ASUS K55V\Documents\Visual Studio 2013\Projects\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.frmchonmuagiai.resources
+C:\Users\ASUS K55V\Documents\Visual Studio 2013\Projects\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.frmthaydoiquydinh.resources
+C:\Users\ASUS K55V\Documents\Visual Studio 2013\Projects\Football_Manager\Football_Manager\obj\x86\Debug\BM_4.Form4.resources
+C:\Users\ASUS K55V\Documents\Visual Studio 2013\Projects\Football_Manager\Football_Manager\obj\x86\Debug\BM_52.Form52.resources
+G:\Football_Manager\Football_Manager\bin\Debug\Football_Manager.exe.config
+G:\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.exe
+G:\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.pdb
+F:\Football_Manager\Football_Manager\bin\Debug\Football_Manager.exe.config
+F:\Football_Manager\Football_Manager\bin\Debug\Football_Manager.exe
+F:\Football_Manager\Football_Manager\bin\Debug\Football_Manager.pdb
+F:\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.csprojResolveAssemblyReference.cache
+F:\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.Dangky.resources
+F:\Football_Manager\Football_Manager\obj\x86\Debug\BM_4.Form4.resources
+F:\Football_Manager\Football_Manager\obj\x86\Debug\BM_52.Form52.resources
+F:\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.FormMAIN.resources
+F:\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.FrmCT_Ketquatrandau.resources
+F:\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.frmketquathidau.resources
+F:\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.frmcauthu.resources
+F:\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.frmchonmuagiai.resources
+F:\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.frmHLV.resources
+F:\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.frmlapichthidau.resources
+F:\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.frmthaydoiquydinh.resources
+F:\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.frmThemMuaGiai.resources
+F:\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.FrmXepHang.resources
+F:\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.Properties.Resources.resources
+F:\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.frmtiepnhanhosodoibong.resources
+F:\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.csproj.GenerateResource.Cache
+F:\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.exe.licenses
+F:\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.exe
+F:\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.pdb
+D:\Project\Quan ky bong da\Football_Manager\Football_Manager\bin\Debug\Football_Manager.exe.config
+D:\Project\Quan ky bong da\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.exe
+D:\Project\Quan ky bong da\Football_Manager\Football_Manager\obj\x86\Debug\Football_Manager.pdb

@@ -1,0 +1,21 @@
+C:\Users\Reus\Documents\Visual Studio 2013\Projects\Form_BM2_4_5.2\BM 4\bin\Debug\BM 4.exe.config
+C:\Users\Reus\Documents\Visual Studio 2013\Projects\Form_BM2_4_5.2\BM 4\bin\Debug\BM 4.exe
+C:\Users\Reus\Documents\Visual Studio 2013\Projects\Form_BM2_4_5.2\BM 4\bin\Debug\BM 4.pdb
+C:\Users\Reus\Documents\Visual Studio 2013\Projects\Form_BM2_4_5.2\BM 4\obj\Debug\BM 4.csprojResolveAssemblyReference.cache
+C:\Users\Reus\Documents\Visual Studio 2013\Projects\Form_BM2_4_5.2\BM 4\obj\Debug\BM_4.Form1.resources
+C:\Users\Reus\Documents\Visual Studio 2013\Projects\Form_BM2_4_5.2\BM 4\obj\Debug\BM_4.Properties.Resources.resources
+C:\Users\Reus\Documents\Visual Studio 2013\Projects\Form_BM2_4_5.2\BM 4\obj\Debug\BM 4.csproj.GenerateResource.Cache
+C:\Users\Reus\Documents\Visual Studio 2013\Projects\Form_BM2_4_5.2\BM 4\obj\Debug\BM 4.exe
+C:\Users\Reus\Documents\Visual Studio 2013\Projects\Form_BM2_4_5.2\BM 4\obj\Debug\BM 4.pdb
+C:\Users\Reus\Documents\Visual Studio 2013\Projects\Form_BM2\BM 4\bin\Debug\BM 4.exe.config
+C:\Users\Reus\Documents\Visual Studio 2013\Projects\Form_BM2\BM 4\obj\Debug\BM 4.exe
+C:\Users\Reus\Documents\Visual Studio 2013\Projects\Form_BM2\BM 4\obj\Debug\BM 4.pdb
+C:\Users\Reus\Desktop\Form_BM5.2\BM 4\bin\Debug\BM 4.exe.config
+C:\Users\Reus\Desktop\Form_BM5.2\BM 4\obj\Debug\BM 4.exe
+C:\Users\Reus\Desktop\Form_BM5.2\BM 4\obj\Debug\BM 4.pdb
+C:\Users\Reus\Desktop\Form_BM5.2\BM 4\bin\Debug\BM 4.exe
+C:\Users\Reus\Desktop\Form_BM5.2\BM 4\bin\Debug\BM 4.pdb
+C:\Users\Reus\Desktop\Form_BM5.2\BM 4\obj\Debug\BM 4.csprojResolveAssemblyReference.cache
+C:\Users\Reus\Desktop\Form_BM5.2\BM 4\obj\Debug\BM_4.Form1.resources
+C:\Users\Reus\Desktop\Form_BM5.2\BM 4\obj\Debug\BM_4.Properties.Resources.resources
+C:\Users\Reus\Desktop\Form_BM5.2\BM 4\obj\Debug\BM 4.csproj.GenerateResource.Cache

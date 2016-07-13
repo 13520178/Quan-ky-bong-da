@@ -1,0 +1,8 @@
+E:\dowload\BM4-BM5.2-Database\Form_BM5.2\BM 4\bin\Debug\BM 4.exe.config
+E:\dowload\BM4-BM5.2-Database\Form_BM5.2\BM 4\obj\Debug\BM 4.exe
+E:\dowload\BM4-BM5.2-Database\Form_BM5.2\BM 4\obj\Debug\BM 4.pdb
+E:\dowload\BM4-BM5.2-Database\Form_BM5.2\BM 4\bin\Debug\BM 4.exe
+E:\dowload\BM4-BM5.2-Database\Form_BM5.2\BM 4\bin\Debug\BM 4.pdb
+E:\dowload\BM4-BM5.2-Database\Form_BM5.2\BM 4\obj\Debug\BM_4.Form1.resources
+E:\dowload\BM4-BM5.2-Database\Form_BM5.2\BM 4\obj\Debug\BM_4.Properties.Resources.resources
+E:\dowload\BM4-BM5.2-Database\Form_BM5.2\BM 4\obj\Debug\BM 5.2.csproj.GenerateResource.Cache
